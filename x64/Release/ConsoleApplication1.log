@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 중간 디렉터리(x64\Release\)에 다른 프로젝트(ConsoleApplication1.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  main.cpp
+c1xx : warning C4199: C++/CLI, C++/CX 또는 OpenMP에서는 2단계 이름 조회가 지원되지 않습니다. /Zc:twoPhase-를 사용하세요.
+c:\users\user\source\repos\openmp_example\main.cpp(10): warning C4305: '초기화 중': '__int64'에서 'int'(으)로 잘립니다.
+c:\users\user\source\repos\openmp_example\main.cpp(10): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  코드를 생성하고 있습니다.
+  4 of 8 functions (50.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  ConsoleApplication1.vcxproj -> C:\Users\user\source\repos\OpenMP_example\x64\Release\OpenMP_example_1.exe

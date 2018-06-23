@@ -1,0 +1,2 @@
+﻿  ConsoleApplication1.cpp
+c:\users\user\source\repos\consoleapplication1\consoleapplication1.cpp(85): error C2065: '_OPENMP': 선언되지 않은 식별자입니다.
